@@ -96,4 +96,4 @@ Cada e-mail processado será exibido assim:
 
 🚀 **Ótimo para criar um sistema automatizado de análise de e-mails!**  
 
-Se precisar de melhorias ou adaptações, me avise! 😊
+Para melhorias ou adaptações, me avise! 😊
